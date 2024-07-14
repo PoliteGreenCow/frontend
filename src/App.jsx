@@ -10,6 +10,8 @@ import DoctorsDetails from './pages/Doctors/DoctorsDetails';
 import MyAccount from './Dashboard/user-account/MyAccount';
 import DoctorAccount from './Dashboard/doctor-account/DoctorAccount';
 import Booking from './components/bookingAppointment'
+import HealthTrack from './pages/HealthTrack'; 
+import ChatBubble from './components/ChatBubble';
 
 import { Routes, Route, BrowserRouter as Router } from 'react-router-dom';
 
